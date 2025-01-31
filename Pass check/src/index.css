@@ -1,0 +1,16 @@
+
+div{
+  text-align: center;
+  padding: 1em;
+  
+}
+input{
+  margin: 1em;
+  font-size: x-large;
+}
+label{
+  font-size: x-large;
+}
+p{
+  color: grey;
+}
